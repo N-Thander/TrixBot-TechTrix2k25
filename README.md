@@ -1,5 +1,5 @@
 
-# **🤖 TrixBot - TechTrix 2K25**  
+# **TrixBot - TechTrix 2K25**  
 
 ## 🌟 About  
 TrixBot is an AI-driven chatbot built for **TechTrix 2025**, designed to assist participants with event information, flagship programs, and even allow easy registrations! Deployed on **Hugging Face Spaces**, TrixBot is your go-to virtual assistant for TechTrix.  
